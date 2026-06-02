@@ -126,10 +126,6 @@ flowchart LR
 
 Trained for **3,000 updates** (24,000 episodes total) on CPU with default hyperparameters.
 
-### Learning curves
-
-![Learning curves](learning_and_scores_curves.png)
-
 ### Agent behavior
 
 | Before training | After training |
